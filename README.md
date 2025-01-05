@@ -7,7 +7,7 @@ A List Tags with jQuery
 HTML:
 
 ```html
-<input type="text" id="list-tags" class="tag-input" placeholder="Add a tag...">
+<input type="text" class="tag-input" placeholder="Add a tag...">
 ```
 
 Style:
