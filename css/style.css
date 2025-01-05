@@ -1,0 +1,27 @@
+main.container {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    max-width: 500px;
+}
+.tag {
+    background-color: #e0e0e0;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+}
+.tag-remove {
+    margin-left: 5px;
+    cursor: pointer;
+}
+.tag-input {
+    border: none;
+    outline: none;
+    padding: 5px;
+    flex-grow: 1;
+}
